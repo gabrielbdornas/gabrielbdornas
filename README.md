@@ -3,7 +3,9 @@
 - 🔭 Currently working with open data and its ecosystem.
 - 🌱 Currently enrolled in the [Computer Science course at UoPeople](https://www.uopeople.edu/programs/online-associates/computer-science/).
 - 👯 Looking to collaborate on open-source projects like [Frictionless](https://github.com/frictionlessdata), and [CKAN](https://github.com/ckan).
-- 📫 How to reach me: Send an email to gabrielbdornas@gmail.com 📧 or open an issue in one of my repositories 🔥.
+- 📫 How to reach me: 
+    - Visit my [Portfolio Website](https://braico.me/) and send me a message 📧.
+    - Open an issue in [one of my GitHub repositories](https://github.com/gabrielbdornas?tab=repositories) 🔥.
 - 😄 Pronouns: He/Him 🧑🧑.
 - ⚡ Fun fact: I'm not a soccer fan ⚽⚽⚽⚽!
 
