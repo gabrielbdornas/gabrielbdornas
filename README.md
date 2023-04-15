@@ -6,6 +6,7 @@
 - 📫 How to reach me: 
     - Visit my [Portfolio Website](https://braico.me/) and send me a message 📧.
     - Open an issue in [one of my GitHub repositories](https://github.com/gabrielbdornas?tab=repositories) 🔥.
+    - Watch [one of my YouTube videos](https://www.youtube.com/channel/UCoMuk7Pk3VzUYQtuqa6fLTw) and write me a comment 📹📹!
 - 😄 Pronouns: He/Him 🧑🧑.
 - ⚡ Fun fact: I'm not a soccer fan ⚽⚽⚽⚽!
 
