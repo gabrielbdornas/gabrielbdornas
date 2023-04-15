@@ -18,6 +18,7 @@
   src="https://stackoverflow-card.vercel.app/?userID=11755155&theme=dracula"
 />
 
+![Snake animation](https://github.com/gabrielbdornas/gabrielbdornas/blob/output/github-contribution-grid-snake.svg)
 
 
 
