@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/Him 🧑🧑.
 - ⚡ Fun fact: I'm not a soccer fan ⚽⚽⚽⚽!
 
-[![gabrielbdornas's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbdornas&show_icons=true&theme=dracula)](https://github.com/gabrielbdornas/github-readme-stats)
+[![gabrielbdornas's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbdornas&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/gabrielbdornas/github-readme-stats)
 
 <div align="lef">
 <img height="165em"
