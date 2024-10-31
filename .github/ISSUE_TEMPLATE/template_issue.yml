@@ -1,6 +1,9 @@
 name: Issue template Gabriel Braico Dornas.
 description: O objetivo principal deste template é padronizar a abertura de Issues no usuário gabrielbdornas.
-projects: ["gabrielbdornas/12"]
+projects:
+  - gabrielbdornas/12
+assignees:
+  - gabrielbdornas
 body:
   - type: markdown
     attributes:
